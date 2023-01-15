@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LonnieLeMaster.com</title>
+    <link>/</link>
+    <description>LonnieLeMaster.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jan 2023 08:22:05 -0600</lastBuildDate>
+    
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Iden</title>
+      <link>/post/test/</link>
+      <pubDate>Sat, 14 Jan 2023 08:22:05 -0600</pubDate>
+      
+      <guid>/post/test/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/iden.jpeg&#34; alt=&#34;test image&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
